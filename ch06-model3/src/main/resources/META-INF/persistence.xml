@@ -16,7 +16,7 @@
             <!-- 실행되는 SQL 을 보여줌 -->
             <property name="hibernate.show_sql" value="true" />
             <!-- 실행되는 SQL 을 이쁘게 보여줌 -->
-            <property name="hibernate.format_sql" value="true"/>
+            <property name="hibernate.format_sql" value="false"/>
             <property name="hibernate.id.new_generator_mappings" value="true"/>
         </properties>
     </persistence-unit>
